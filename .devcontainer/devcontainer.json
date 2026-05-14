@@ -34,7 +34,7 @@
     "cpus": 2
   },
   "containerEnv": {
-    "MRH_ADMIN_USERNAME": "your-username",
-    "MRH_ADMIN_PASSWORD": "your-strong-password"
+    "MRH_ADMIN_USERNAME": "amirarian",
+    "MRH_ADMIN_PASSWORD": "digechekhabarbaby"
   }
 }
